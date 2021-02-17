@@ -51,8 +51,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     bottom: 0;
     width: 100%;
     
-    background: #6cf;
-    background: #222;
+    background: beige;
 }
 table {
   

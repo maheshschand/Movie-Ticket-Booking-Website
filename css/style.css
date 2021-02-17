@@ -348,7 +348,7 @@ p.s-img a:hover{
 }
 /*--Footer--*/
 .footer {
-	background:#222;
+	background:beige;
 }
 .footer-top{
 	padding: 20px 0;
@@ -428,7 +428,7 @@ p.txt_4{
 	color:#888;
 }
 .footer-bottom {
-	background: #111;
+	background: beige;
 	padding: 20px;
 }
 .copy{

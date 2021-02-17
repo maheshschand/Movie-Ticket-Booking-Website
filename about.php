@@ -13,9 +13,6 @@
 	.footer{
     bottom: 0;
     width: 100%;
-
-    background: #6cf;
-    background: #222;
 }
 
 
